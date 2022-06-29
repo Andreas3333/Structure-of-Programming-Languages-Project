@@ -10,7 +10,7 @@
  * code should compile with g++ compiler
  *
  * -----------------------------------------------
- * This program is ment to deminstrate the use of 
+ * This program is intended to deminstrate the use of 
  * garbage collection, pointers and memory allocation,
  * and parameter passing in the c++ language. Where
  * these mechinisms are supported or not.
