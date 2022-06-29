@@ -7,7 +7,7 @@
  * Aditi Singh
  * Spring 2022
  *
- * code should compile with g++ comiler
+ * code should compile with g++ compiler
  *
  * -----------------------------------------------
  * This program is ment to deminstrate the use of 
